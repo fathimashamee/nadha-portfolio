@@ -15,7 +15,7 @@ export const artist = {
   location: 'Sri Lanka',
   availability:
     'Available for freelance & full-time work — remote-friendly, taking commissions from anywhere in the world.',
-  portrait: '/portrait.jpg',
+  portrait: 'portrait.jpg',
   cv: '/cv.pdf',
 
   story: [
