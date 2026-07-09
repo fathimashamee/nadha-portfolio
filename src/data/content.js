@@ -15,8 +15,8 @@ export const artist = {
   location: 'Sri Lanka',
   availability:
     'Available for freelance & full-time work — remote-friendly, taking commissions from anywhere in the world.',
-  portrait: 'portrait.jpg',
-  cv: '/cv.pdf',
+  portrait: import.meta.env.BASE_URL + 'portrait.jpg',
+  cv: import.meta.env.BASE_URL + 'cv.pdf',
 
   story: [
     "I have always been an art-loving soul. Long before I knew the words 'graphic design', I was the girl turning simple ideas into little visual stories — sketches in the margins of schoolbooks, colours chosen with far too much care.",
