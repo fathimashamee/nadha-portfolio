@@ -74,7 +74,7 @@ body {
 .page {
   background-color: var(--parchment);
   background-image:
-    url('/textures/parchment.jpg'),
+    url('./textures/parchment.jpg'),
     radial-gradient(ellipse 220px 140px at 12% 8%, rgba(169, 124, 63, 0.28), transparent 70%),
     radial-gradient(ellipse 180px 180px at 90% 85%, rgba(169, 124, 63, 0.24), transparent 70%),
     radial-gradient(ellipse 120px 260px at 4% 55%, rgba(198, 163, 105, 0.3), transparent 70%),
